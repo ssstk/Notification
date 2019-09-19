@@ -15,8 +15,8 @@
     var options = {
         noticeList: [],//通知存储数组
         notification: null, //通知对象
-        title: '默认标题',
-        body: '默认内容',
+        title: '',
+        body: '',
         icon: 'img/logo.png',
         content: "通知...",
         time: 1000
